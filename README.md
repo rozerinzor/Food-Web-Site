@@ -62,9 +62,9 @@ cd proje-adi
 
 3. `index.html` dosyasını tarayıcıda aç.
 
-## 🌐 Canlı Demo
+## 🌐  Demo
 
-Projeyi canlı görmek için:
+Proje Demo:
 
 ![Demo](images/demo.gif)
 
