@@ -8,9 +8,6 @@ Bu proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiş **responsive 
 Bu proje, bir restoran için hazırlanmış modern bir landing page tasarımıdır.
 Site farklı ekran boyutlarına uyum sağlayacak şekilde **responsive** olarak tasarlanmıştır.
 
-## 🎥 Proje Önizleme
-
-![Proje Demo](images/demo.gif)
 
 ## ✨ Özellikler
 
